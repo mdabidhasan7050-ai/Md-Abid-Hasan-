@@ -1,0 +1,9 @@
+
+{
+  "name": "Abid.Ai",
+  "description": "The World's Fastest AI—Works Seamlessly Offline & Online! Get answers in 0.1s, create Bengali PDFs, and generate high-quality media.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

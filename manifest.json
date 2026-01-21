@@ -1,0 +1,21 @@
+{
+  "name": "Abid.Ai",
+  "short_name": "Abid.Ai",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "description": "The World's Fastest AI—Works Seamlessly Offline & Online!",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1698/1698535.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1698/1698535.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
